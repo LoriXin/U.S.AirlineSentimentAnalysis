@@ -16,6 +16,10 @@ Each model is trained and evaluated using the same preprocessing pipeline and hy
 - **Source**: [Kaggle Airline Twitter Sentiment](https://www.kaggle.com/datasets/crowdflower/twitter-airline-sentiment)
 - **Size**: 14,640 labeled tweets (Positive, Neutral, Negative)
 - **Note**: The dataset is class-imbalanced and contains informal, user-generated content.
+![image](https://github.com/user-attachments/assets/722eb902-f1bd-45c0-913b-52fc597da212)
+Figure 1. Sentiment Count for Different Airlines
+![image](https://github.com/user-attachments/assets/b321a70d-462f-45ef-9a35-f631427f4559)
+Figure 2.Sentiment Word Clouds for US Airlines (Without US Airline names)
 
 ## 🚀 Models & Frameworks
 
