@@ -1,4 +1,4 @@
-# Airline Sentiment Classification with BERT and Deep Learning Models
+# U.S. Airline Sentiment Classification with BERT and Deep Learning Models
 
 This repository contains the full implementation of a capstone research project focused on sentiment analysis of U.S. airline tweets using both traditional and transformer-based models.
 
@@ -31,8 +31,10 @@ Each model is trained and evaluated using the same preprocessing pipeline and hy
    cd airline-sentiment
 2. Install dependencies:
    ```bash
-pip install -r requirements.txt
+   pip install -r requirements.txt
+   ```
 3. Place your dataset (0000.parquet) in the working directory.
 4. Run the main script:
    ```bash
-python Lori_Code.py
+   python Lori_Code.py
+   ```
